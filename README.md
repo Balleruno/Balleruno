@@ -14,4 +14,5 @@
 2) 2X motor
 3) 1X motor-shield
 4) 1X bluetooth module
+
 και υλικά κατασκευής συσκευής (κύλινδροι, καλώδια κλπ.)
